@@ -32,16 +32,16 @@ Clique no ícone 🌙  para fazer a mudança para o tema dark.
 ### 👀 Preview
 
 * Dark Mode
-```
+
 ![image](https://user-images.githubusercontent.com/90478654/178127567-7ad42cf3-f9cf-4e8a-8a36-abd62cc63a39.png)
 
-```
+---
 
 * Light Mode
-```
+
 ![image](https://user-images.githubusercontent.com/90478654/178127575-26ea7e37-e55b-4f56-9f27-9e0266077cd8.png)
 
-```
+
 
 ---
 ⌨️ com ❤️ por [Igor](https://gist.github.com/0dayig0r) 😊
