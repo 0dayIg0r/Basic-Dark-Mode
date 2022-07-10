@@ -13,6 +13,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [HTML5](https://html.com/) - Linguagem de marcação.
 * [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) - Mecanismo para adicionar estilo a um documento web
 * [JAVA SCRIPT](https://www.javascript.com/) - Linguagem de programação interpretada estruturada
+* [BOOT STRAP ICONS](https://icons.getbootstrap.com/#install) - Biblioteca de ícones de código aberto gratuita e de alta qualidade com mais de 1.600 ícones. 
 #
 
 ### 🔧 Instalação
