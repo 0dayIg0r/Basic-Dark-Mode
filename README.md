@@ -1,7 +1,7 @@
 # Dark Mode
 
 Esse projeto foi o meu primeiro contato com uma das várias maneiras de se aplicar um tema em uma aplicação.
-O projeto não está responsivo ainda mas contem a funcionalidade de salvar no local storage o tema selecionado pelo usuário.
+O projeto não está responsivo ainda, mas contem a funcionalidade de salvar no local storage o tema selecionado pelo usuário.
 
 
 
