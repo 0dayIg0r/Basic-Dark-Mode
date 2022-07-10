@@ -8,7 +8,6 @@ O projeto não está responsivo ainda mas contem a funcionalidade de salvar no l
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [HTML5](https://html.com/) - Linguagem de marcação.
 * [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) - Mecanismo para adicionar estilo a um documento web
