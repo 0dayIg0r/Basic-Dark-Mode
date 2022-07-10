@@ -30,7 +30,7 @@ Clique no ícone ☀️  para fazer a mudança para o tema light.
 Clique no ícone 🌙  para fazer a mudança para o tema dark.
 ```
 ### 👀 Preview
-
+Veja o projeto por meio de prints 🤓
 * Dark Mode
 
 ![image](https://user-images.githubusercontent.com/90478654/178127567-7ad42cf3-f9cf-4e8a-8a36-abd62cc63a39.png)
